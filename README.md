@@ -10,7 +10,7 @@ Biomedical Engineering Student @ Helwan University | AI in Healthcare
 
 ### 🛠️ Tech Stack & Tools
 
-`Python` `C++` `Scikit-learn` `Git & GitHub` `VS Code`
+`Python` `C++` `Scikit-learn` `VS Code` `Anaconda` `Git & GitHub` `MNE` `SQL`
 
 ---
 
