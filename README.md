@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**zeinababdo546/zeinababdo546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# 👋 Hi, I'm Zeinab 
+#  Hi, I'm Zeinab 👋
 
 Biomedical Engineering Student @ Helwan University | AI in Healthcare
 
